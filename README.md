@@ -16,6 +16,8 @@ Saluton. Mi ne scias kial mi estas ĉi tie.
 
 Mi forgesis la vorton por arbobrako.
 
+This is only on this branch (the test branch).
+
 ## git
 
 git is a version control software.
