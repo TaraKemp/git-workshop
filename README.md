@@ -17,6 +17,7 @@ Saluton. Mi ne scias kial mi estas ĉi tie.
 Mi forgesis la vorton por arbobrako.
 
 Ĉi tiu ŝanĝo estas sur la ĉefa branĉo.
+This is only on this branch (the test branch).
 
 ## git
 
