@@ -8,6 +8,10 @@ This is me testing some stuff.
 
 Saluton. Mi ne scias kial mi estas ĉi tie.
 
+## testing but from Github
+
+Ŭaŭ, ĉi tiu estas la retpaĝo.
+
 ## git
 
 git is a version control software.
