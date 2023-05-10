@@ -16,6 +16,8 @@ Saluton. Mi ne scias kial mi estas ĉi tie.
 
 Mi forgesis la vorton por arbobrako.
 
+Ĉi tiu ŝanĝo estas sur la ĉefa branĉo.
+
 ## git
 
 git is a version control software.
